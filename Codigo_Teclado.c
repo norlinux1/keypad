@@ -5,7 +5,6 @@
  *  Author: User
  */ 
 #include <inttypes.h>
-#include <avr/pgmspace.h>
 #include <avr/io.h>
 #include "lcd_lib.h"
 #include "user_interface.h"
